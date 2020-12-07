@@ -1,2 +1,2 @@
 # image-recognition-using-MNIST-dataset
-Classwork for IE300 (Statistical analysis and modeling)
+Image recognition using a Naive-Bayes based model that reaches 95% accuracy on the MNIST data set!
